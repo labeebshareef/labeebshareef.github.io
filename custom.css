@@ -6,7 +6,8 @@
   font-size: 19px;
 color: antiquewhite;			
 }
-	    #p2{font-family: 'Sedgwick Ave Display', cursive;}
+	    #p2{font-family: 'Sedgwick Ave Display', cursive;
+		fontcolor: pearlwhite}
 #content1
 {
 	position: fixed;
